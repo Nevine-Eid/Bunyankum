@@ -1,0 +1,249 @@
+PODS:
+  - AdvancedPageControl (0.9.0)
+  - Alamofire (4.9.1)
+  - AnimatedTextInput (0.5.5)
+  - BEMCheckBox (1.4.1)
+  - Cosmos (16.0.0)
+  - CTPanoramaView (1.4)
+  - DLRadioButton (1.4.12)
+  - DropDown (2.3.13)
+  - Firebase/Auth (8.8.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 8.8.0)
+  - Firebase/CoreOnly (8.8.0):
+    - FirebaseCore (= 8.8.0)
+  - Firebase/Messaging (8.8.0):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 8.8.0)
+  - FirebaseAuth (8.8.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GTMSessionFetcher/Core (~> 1.5)
+  - FirebaseCore (8.8.0):
+    - FirebaseCoreDiagnostics (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Logger (~> 7.4)
+  - FirebaseCoreDiagnostics (8.8.0):
+    - GoogleDataTransport (~> 9.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Logger (~> 7.4)
+    - nanopb (~> 2.30908.0)
+  - FirebaseInstallations (8.8.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/UserDefaults (~> 7.4)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - FirebaseMessaging (8.8.0):
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleDataTransport (~> 9.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.4)
+    - GoogleUtilities/Environment (~> 7.4)
+    - GoogleUtilities/Reachability (~> 7.4)
+    - GoogleUtilities/UserDefaults (~> 7.4)
+    - nanopb (~> 2.30908.0)
+  - GoogleDataTransport (9.1.0):
+    - GoogleUtilities/Environment (~> 7.2)
+    - nanopb (~> 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/AppDelegateSwizzler (7.5.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.5.2):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.5.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Network (7.5.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.5.2)"
+  - GoogleUtilities/Reachability (7.5.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.5.2):
+    - GoogleUtilities/Logger
+  - GrowingTextView (0.7.2)
+  - GTMSessionFetcher/Core (1.7.0)
+  - IBAnimatable (6.1.0)
+  - ImageSlideshow (1.9.2):
+    - ImageSlideshow/Core (= 1.9.2)
+  - ImageSlideshow/Core (1.9.2)
+  - ImageSlideshow/SDWebImage (1.9.2):
+    - ImageSlideshow/Core
+    - SDWebImage (>= 3.7)
+  - InputBarAccessoryView (5.4.0):
+    - InputBarAccessoryView/Core (= 5.4.0)
+  - InputBarAccessoryView/Core (5.4.0)
+  - IQKeyboardManagerSwift (6.5.6)
+  - JPVideoPlayer (3.1.1)
+  - Kingfisher (7.0.0)
+  - libwebp (1.2.1):
+    - libwebp/demux (= 1.2.1)
+    - libwebp/mux (= 1.2.1)
+    - libwebp/webp (= 1.2.1)
+  - libwebp/demux (1.2.1):
+    - libwebp/webp
+  - libwebp/mux (1.2.1):
+    - libwebp/demux
+  - libwebp/webp (1.2.1)
+  - MessageKit (3.7.0):
+    - InputBarAccessoryView (~> 5.4.0)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - PagingView (0.6.0)
+  - PromisesObjC (2.0.0)
+  - RangeSeekSlider (1.8.0)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SDWebImage/WebP (4.4.8):
+    - libwebp (< 2.0, >= 0.5)
+    - SDWebImage/Core
+  - SideMenu (6.5.0)
+  - SkeletonView (1.29.2)
+  - SKPhotoBrowser (7.0.0)
+  - SkyFloatingLabelTextField (3.8.0)
+  - SwiftLocation (5.1.0):
+    - SwiftLocation/BeaconBroadcaster (= 5.1.0)
+    - SwiftLocation/Core (= 5.1.0)
+  - SwiftLocation/BeaconBroadcaster (5.1.0):
+    - SwiftLocation/Core
+  - SwiftLocation/Core (5.1.0)
+  - SwiftMessages (9.0.4):
+    - SwiftMessages/App (= 9.0.4)
+  - SwiftMessages/App (9.0.4)
+  - SwipeableTabBarController (3.4.2)
+  - TAPageControl (0.2.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - AdvancedPageControl
+  - Alamofire (~> 4.7)
+  - AnimatedTextInput
+  - BEMCheckBox
+  - Cosmos (~> 16.0)
+  - CTPanoramaView (~> 1.3)
+  - DLRadioButton (~> 1.4)
+  - DropDown
+  - Firebase/Auth
+  - Firebase/Messaging
+  - GrowingTextView
+  - IBAnimatable
+  - ImageSlideshow (~> 1.6)
+  - ImageSlideshow/SDWebImage
+  - IQKeyboardManagerSwift
+  - JPVideoPlayer
+  - Kingfisher
+  - MessageKit
+  - NVActivityIndicatorView
+  - PagingView
+  - RangeSeekSlider
+  - SDWebImage/WebP
+  - SideMenu
+  - SkeletonView
+  - SKPhotoBrowser
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftLocation
+  - SwiftMessages
+  - SwipeableTabBarController
+  - TAPageControl
+  - Toast-Swift (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - AdvancedPageControl
+    - Alamofire
+    - AnimatedTextInput
+    - BEMCheckBox
+    - Cosmos
+    - CTPanoramaView
+    - DLRadioButton
+    - DropDown
+    - Firebase
+    - FirebaseAuth
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseInstallations
+    - FirebaseMessaging
+    - GoogleDataTransport
+    - GoogleUtilities
+    - GrowingTextView
+    - GTMSessionFetcher
+    - IBAnimatable
+    - ImageSlideshow
+    - InputBarAccessoryView
+    - IQKeyboardManagerSwift
+    - JPVideoPlayer
+    - Kingfisher
+    - libwebp
+    - MessageKit
+    - nanopb
+    - NVActivityIndicatorView
+    - PagingView
+    - PromisesObjC
+    - RangeSeekSlider
+    - SDWebImage
+    - SideMenu
+    - SkeletonView
+    - SKPhotoBrowser
+    - SkyFloatingLabelTextField
+    - SwiftLocation
+    - SwiftMessages
+    - SwipeableTabBarController
+    - TAPageControl
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  AdvancedPageControl: 39e3b32b00b2d324c534f8e17cc6c5be9abe84b7
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AnimatedTextInput: aadbdfa5a538a03cc9fbea700b43d2bb21a5d132
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  CTPanoramaView: 63ca71eb6107e465bb0034fb0dcbdfd60c6d9a54
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  Firebase: 629510f1a9ddb235f3a7c5c8ceb23ba887f0f814
+  FirebaseAuth: bcf0adeff88bda5dcb3beeabe5760f1226ab7b2f
+  FirebaseCore: 98b29e3828f0a53651c363937a7f7d92a19f1ba2
+  FirebaseCoreDiagnostics: fe77f42da6329d6d83d21fd9d621a6b704413bfc
+  FirebaseInstallations: 2563cb18a723ef9c6ef18318a49519b75dce613c
+  FirebaseMessaging: 419b5c9d84f294a753c6501d8cfb9ced1ce37304
+  GoogleDataTransport: 85fd18ff3019bb85d3f2c551d04c481dedf71fc9
+  GoogleUtilities: 8de2a97a17e15b6b98e38e8770e2d129a57c0040
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  GTMSessionFetcher: 43748f93435c2aa068b1cbe39655aaf600652e91
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  ImageSlideshow: be305b54eaf2b2cfc7a7141c7c734605d44dc07d
+  InputBarAccessoryView: 74d471ab1fa1736806be50328df79257e52865a9
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JPVideoPlayer: 234c2fc5c9dfd67b969a5dd8233815eb872472c6
+  Kingfisher: 5efc54fec3980f92354898532e562cc17f31efb4
+  libwebp: 98a37e597e40bfdb4c911fc98f2c53d0b12d05fc
+  MessageKit: 8e76dd8d65ad44b49e1651c673497146416461e9
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  PagingView: 86647106f18c6c506746e4a8c4ac5df4f5575a17
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  RangeSeekSlider: 650b11fa1edcb92e1e0ede797669d98622570fb5
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SKPhotoBrowser: 6aaa8f232752e87c7e76bace183bead0a137097d
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  SwiftLocation: 83e0ea75a1969cee3a1197e2b7095603fc23fde5
+  SwiftMessages: 082ed63613a49fa8e749cd6000bb0a8b9bbc736f
+  SwipeableTabBarController: 9a218bdee9426d1bfe36d7962f852024bb08d61b
+  TAPageControl: fd11d779bbb5c2464ca2f55dde9e288213ea8a9b
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 9ed9b6d3e3e0774791308816e17bed9629fd5195
+
+COCOAPODS: 1.10.1
