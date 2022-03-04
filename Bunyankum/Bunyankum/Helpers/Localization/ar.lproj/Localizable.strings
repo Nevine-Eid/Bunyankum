@@ -1,0 +1,173 @@
+/*
+  Localizable.strings
+  Amber
+
+  Created by YoussefRomany on 12/07/2020.
+  Copyright © 2020 HardTask. All rights reserved.
+*/
+
+/// fonts
+"regFont" = "GEDinarOne-Medium";
+"boldFont" = "GEDinarOne-Medium";
+"semiFont" = "GEDinarOne-Medium";
+
+/// webView direction
+"myDir"="LTR";
+"Lang"="English";
+"Home"="الرئيسية";
+
+/// authentications
+"MessageSentSuccessfully" = "تمت اضافة الرسالة بنجاح";
+"emptyMessage" = "الرجاء كتابة الرساله";
+"emptyName" = "الرجاء ادخال الاسم";
+"UnValidPassword" = "كلمة المرور يجب أن تتكون من 6 أرقام على الأقل";
+"EmptyMAil"="رجاءا أدخل بريدك الإلكتروني";
+"EmptyUserName" = "الرجاء إدخال اسم المستخدم";
+"EmptyPassword" = "من فضلك أدخل كلمة المرور";
+"UnValidEmail" = "يرجى إدخال البريد الإلكتروني الصحيح";
+"EmptyPhone"="يرجى إدخال رقم الهاتف الخاص بك";
+"UnValidPhone" = "يجب أن يتكون رقم الهاتف من 8 أرقام على الأقل";
+"emptyFullName" = "الرجاء إدخال الاسم الكامل";
+"agreeTerms" = "الرجاء الموافقة على الشروط أولاً";
+"emptyOldPassword" = "الرجاء إدخال كلمة المرور القديمة";
+"emptyNewPassword" = "الرجاء إدخال كلمة المرور الجديدة";
+"emptyConfirmPassword" = "الرجاء إدخال تأكيد كلمة المرور";
+"equalPassword" = "كلمة المرور وكلمة المرور التأكيدية غير متساويتين";
+"emptyLink" = "الرابط غير متوفر";
+"unknownError" = "عذرا، هنالك خطأ ما، الرجاء إعادة المحاولة لاحقا";
+"EmptyMailPhone" = "الرجاء إدخال البريد الإلكتروني أو الهاتف";
+"EmptyFirstName" = "الرجاء إدخال الاسم الأول";
+"EmptyFullName" = "الرجاء إدخال الاسم الكامل";
+"EmptyLastName" = "الرجاء إدخال الاسم الأخير";
+"EnterPhoneOrMail"="الرجاء إدخال الهاتف أو البريد الإلكتروني";
+"forgetResponse" = "تحقق من بريدك لإعادة تعيين كلمة المرور";
+"Successfully Change Password" = "تم تغيير كلمة المرور الخاصة بك بنجاح";
+"sentMessage" = "تم ارسال رسالتك بنجاح";
+"emptyData" = "لا توجد بيانات للعرض";
+"UnFaveSuccessfully" = "حذف العنصر بنجاح من قائمة المفضلة";
+"AddToCart" = "تمت إضافة المنتج إلى سلة التسوق بنجاح";
+"AddToFav" = "تمت إضافة المنتج إلى قائمة المفضلة الخاصة بك بنجاح";
+"emptyCartData" = "سلة التسوق الخاصة بك فارغة";
+"emptyOrdersData" = "لم تقم بإضافة أي طلبات";
+"emptyFavouritData" = "لا توجد منتجات مضافة في قائمة المفضلة";
+"emptyCategoriesData" = "قائمة الفئات فارغة";
+"emptyAddresseData" = "لم تقم بإضافة أي عنوان. الرجاء إضافة العنوان أولاً";
+"emptyProductData" = "لا توجد منتجات";
+"emptyNotification"="لا توجد إخطارات";
+"AddAddressSuccessfully"="تمت إضافة عنوانك بنجاح";
+"enterMessage" = "الرجاء إدخال رسالتك";
+"resetSend" = "تم ارسال اعادة تعيين كلمة المرور الى البزيد الالكترونى";
+"editDataDone"="تم تحديث بياناتك بنجاح";
+
+/// addresses
+"ChooseCountry" = "الرجاء اختيار بلدك";
+"ChooseCity" = "الرجاء اختيار مدينتك";
+"ChooseArea" = "الرجاء اختيار منطقتك";
+"EmptyTitle"="الرجاء إدخال عنوان عنوانك";
+"EmptyBlook"="الرجاء إدخال القطعه الخاصة بك";
+"EmptyStreet"="الرجاء إدخال شارعك";
+"EmptyBuilding"="الرجاء إدخال رقم المبنى الخاص بك";
+"EmptyFloor"="الرجاء إدخال الطابق الخاص بك";
+"EmptyApartment"="الرجاء إدخال رقم شقتك";
+"enterAddressdDetails"="الرجاء إدخال عنوانك بالتفصيل";
+
+
+/// screen titles
+"Login"="تسجيل الدخول";
+"Register"="تسجيل";
+"ContactUs" = "اتصل بنا";
+"AboutUs"="من نحن";
+"ForgetPassword"="نسيت كلمة المرور";
+"MyAccount"="حسابي";
+"Notifications"="الإشعارات";
+"Favourite"="المفضلة";
+"MyOrder" = "طلباتي";
+"OrderDetailse"="تفاصيل الطلب";
+"Cart"="السلة";
+"Checkout" = "الدفع";
+"EditProfile"="تعديل الملف";
+"ChangePassword" = "تغيير كلمة المرور";
+"Addresses" = "العناوين";
+"AddAddress" = "إضافة عنوان";
+"Cart"="السلة";
+"More"="المزيد";
+"TermsAndCondition"="الشروط والأحكام";
+"Filter"="تنقية";
+"MyCourses"="دوراتي";
+"FAQ"="الأسئلة المتكررة";
+
+
+
+// images
+"cancelFileTitle" = "Delete Attachment";
+"cancelFileBody" = "Do you really want to delete this attachment?";
+
+"ComposeMessage"="إنشاء رسالة";
+
+
+// sky floating
+"oldPassword" = "كلمة المرور القديمة";
+"newPassword" = "كلمة سر جديدة";
+"confirmNewPassword" = "تأكيد كلمة المرور";
+
+"Title"="العنوان*";
+"Country"="الدولة *";
+"City"="المدينة *";
+"Area"="المنطقة *";
+"Block"="القطعة *";
+"Street"="الشارع *";
+"Building"="المبنى *";
+"Floor"="الطابق*";
+"ApartmentNumber"="رقم الشقة *";
+"AutomaticNumber"="الرقم الآلي للعنوان";
+"PhoneRecipientNumber"="رقم الهاتف";
+"ReqPhoneRecipientNumber"="رقم الهاتف *";
+"AddressDetailse"="العنوان بالتفصيل";
+"WinninAuction"="المزادات الفائزة";
+
+
+
+
+"notComplete" = "عملية الدفع غير مكتملة";
+"paymentComplete" = "عملية الدفع صحيحة";
+"OrderNum"="رقم الطلب";
+"shouldLogin"="يجب أن تقوم بتسجيل الدخول أولاً";
+"Message"="الرسالة";
+
+"continueShop"="استمرار التسوق";
+"checkout"="الدفع";
+
+"MessageAlert" = "تاكيد";
+"addToCartAlert" = "تم اضافة المنتج الى السلة بنجاح";
+
+
+"BuildingType"="بناء";
+"HouseType"="منزل";
+"Popularity"="الشعبية";
+"PriceHightoLow"="السعر الاعلى الى الادنى";
+"PriceLowtoHigh"="السعر من الارخص للاعلى";
+"Items"="العناصر";
+
+"emptySizes" = "من فضلك ادخل المقاسات";
+"emptyCollection" = "الرجاء اختيار المقاس";
+"SelectCat"="الرجاء اختيار فئة واحدة على الأقل";
+"Vendors"="البائعين";
+"SuccessfullyChangePassword" = "تغيير كلمة المرور بنجاح";
+"HomeW"="Women Boutique";
+"Next"="التالي";
+"EmptyVendors"="لايوجد بائعين او منتجات لهذا القسم";
+"All"="الكل";
+"ViewCourses"="عرض كافة الدورات";
+"ViewProducts"="عرض كافة المنتجات";
+"emptyCoursesData"="لا توجد دورات";
+"EditAddress"="تعديل العنوان";
+"selectMethod"="الرجاء تحديد طريقة الدفع";
+"remove" = "حذف";
+"apply" = "تطبيق";
+"emptyCopon" = "يرجى إدخال الكوبون";
+"Duration"="مدة";
+"Min"="دقيقة";
+"logout"="تسجيل الخروج";
+"Banat"="بنات";
+"versCheck2"="يتوفر إصدار جديد من Banat في ابل ستور \n\n الرجاء النقر فوق الزر أدناه لتحديث تطبيقك.";
+"updateApp"="تحديث التطبيق الآن";

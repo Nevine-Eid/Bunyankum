@@ -1,0 +1,171 @@
+/*
+  Localizable.strings
+  Amber
+
+  Created by YoussefRomany on 12/07/2020.
+  Copyright © 2020 HardTask. All rights reserved.
+*/
+
+/// fonts
+"regFont" = "Comfortaa-Regular";
+"boldFont" = "Comfortaa-Bold";
+"semiFont" = "Comfortaa-Bold";
+
+/// webView direction
+"myDir"="LTR";
+"Lang"="عربي";
+"Home"="Home";
+"HomeW"="Banat";
+
+/// authentications
+"MessageSentSuccessfully" = "your Message has been added successfully";
+"emptyName" = "please enter your name";
+"emptyMessage" = "please enter your message";
+"UnValidPassword" = "password must be at least 6 digit";
+"EmptyMAil"="Please enter your email";
+"EmptyUserName" = "Please enter user name";
+"EmptyPassword" = "Please enter your password";
+"UnValidEmail" = "Please enter a valide mail";
+"EmptyPhone"="Please enter your phone number";
+"UnValidPhone" = "Phone number must be at least 8 digit";
+"emptyFullName" = "Please enter Full name";
+"agreeTerms" = "Please agree terms first";
+"emptyOldPassword" = "Please enter your old password";
+"emptyNewPassword" = "Please enter new password";
+"emptyConfirmPassword" = "Please enter confirm password";
+"equalPassword" = "Password and confirmation password didn't equal";
+"emptyLink" = "The link is not Available";
+"unknownError" = "Sorry, something went wrong, please try again later";
+"EmptyMailPhone" = "Please enter you email or phone";
+"EmptyFirstName" = "Please enter first name";
+"EmptyFullName" = "Please enter Full name";
+"EmptyLastName" = "Please enter last name";
+"EnterPhoneOrMail"="Please enter phone or email";
+"forgetResponse" = "Check your Mail To Reset Password";
+"Successfully Change Password" = "Your password has been changed successfully";
+"sentMessage" = "Your message has been sent successfully";
+"emptyData" = "There is no data for showing";
+"UnFaveSuccessfully" = "Delete item successfully from your favourites list";
+"AddToCart" = "Added product to cart successfully";
+"AddToFav" = "Added product to your favourit list successfully";
+"emptyCartData" = "Your shopping cart is empty";
+"emptyOrdersData" = "No Orders added by you";
+"emptyFavouritData" = "No products added in your favourites list";
+"emptyCategoriesData" = "Category list is empty";
+"emptyAddresseData" = "No address added by you. Please add address first";
+"emptyProductData" = "There is no products";
+"emptyNotification"="there is no notifications";
+"AddAddressSuccessfully"="your address had been added successfully";
+"enterMessage" = "Please enter your message";
+"resetSend" = "Reset password sent to your email";
+"editDataDone"="your data had been updated successfully";
+
+/// addresses
+"ChooseCountry" = "Please choose your country";
+"ChooseCity" = "Please choose your city";
+"ChooseArea" = "Please choose your area";
+"EmptyTitle"="please enter your addres title";
+"EmptyBlook"="please enter your block";
+"EmptyStreet"="please enter your street";
+"EmptyBuilding"="please enter your building number ";
+"EmptyFloor"="please enter your Floor";
+"EmptyApartment"="please enter your apartment number";
+"enterAddressdDetails"="please enter your address in details";
+
+
+/// screen titles
+"Login"="Login";
+"Register"="Register";
+"ContactUs" = "Contact Us";
+"AboutUs"="About Us";
+"ForgetPassword"="Forget Password";
+"MyAccount"="My Account";
+"Notifications"="Notifications";
+"Favourite"="Favourite";
+"MyOrder" = "My Orders";
+"OrderDetailse"="Order Details";
+"Cart"="Cart";
+"Checkout" = "Checkout";
+"EditProfile"="Edit Profile";
+"ChangePassword" = "Change Password";
+"Addresses" = "My Addresses";
+"AddAddress" = "Add Address";
+"Cart"="Cart";
+"More"="More";
+"TermsAndCondition"="Terms And Condition";
+"Filter"="Filter";
+"MyCourses"="My Courses";
+"logout"="Logout";
+"FAQ"="FAQ";
+
+// images
+"cancelFileTitle" = "Delete Attachment";
+"cancelFileBody" = "Do you really want to delete this attachment?";
+
+"ComposeMessage"="Compose message";
+
+
+// sky floating
+"oldPassword" = "Old Password";
+"newPassword" = "New Password";
+"confirmNewPassword" = "Confirmation Password";
+
+"Title"="Title*";
+"Country"="Country*";
+"City"="City*";
+"Area"="Area*";
+"Block"="Block*";
+"Street"="Street*";
+"Building"="BuildingNo*";
+"Floor"="Floor*";
+"ApartmentNumber"="Apartment Number*";
+"AutomaticNumber"="Automatic Number";
+"PhoneRecipientNumber"="Phone Number";
+"ReqPhoneRecipientNumber"="Phone Number*";
+
+
+"AddressDetailse"="Address Details";
+
+
+"notComplete" = "payment operation not completed";
+"paymentComplete" = "payment completed successfully";
+"OrderNum"="Order Num.";
+"shouldLogin"="You must make login first";
+"Message"="Message";
+
+"BuildingType"="Building";
+"HouseType"="House";
+
+"Popularity"="Popularity";
+"PriceHightoLow"="Price High to Low";
+"PriceLowtoHigh"="Price Low to High";
+"Items"="Items";
+
+"addToCartAlert" = "Product successfully added to cart";
+"MessageAlert" = "Confirmation";
+"continueShop"="Continue Shopping";
+"checkout"="Checkout";
+
+"emptySizes" = "please enter all sizes";
+"emptyCollection" = "please choose size";
+"SelectCat"="please choose at least one category";
+"Vendors"="Vendors";
+"SuccessfullyChangePassword" = "Change Password Successfully";
+"Next"="Next";
+"EmptyVendors"="There is no Vendors or Products for this category";
+"All"="All";
+"ViewCourses"="View All courses";
+"ViewProducts"="View All Products";
+"emptyCoursesData"="There is no courses";
+"EditAddress"="Edit Address";
+
+"selectMethod"="please select payment method";
+"remove" = "Remove";
+"apply" = "Apply";
+"emptyCopon" = "Please enter the coupon code";
+"Duration"="Duration";
+"Min"="Min";
+"Banat"="Banat";
+
+"versCheck2"="A new version of Banat is available on App Store.\n\nPlease click below button to update your app.";
+"updateApp"="Update App Now";
